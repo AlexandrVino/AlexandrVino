@@ -1,6 +1,6 @@
 # Hi there, I'm [Alexander](https://github.com/AlexandrVino/) 👋
 
-### - I'm 17 years old Backend & Machine Learning Enthusiast from Russia.
+### - I'm 17 years old Backend developer.
 <br/>
 <table>
   <tr>
