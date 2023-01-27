@@ -6,6 +6,7 @@
   <tr>
     <td valign="top" width="500px">
 			### - Learning :</br></br>
+			- ✨ Python</br>
 			- ✨ Kotlin</br>
 			- ✨ JavaScript</br>
 			- ✨ Mathematical statistics</br>
