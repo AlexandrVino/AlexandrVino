@@ -25,8 +25,8 @@
 
 ![Python](https://img.shields.io/badge/python-%230175C2?style=for-the-badge&logo=python&logoColor=%23F7DF1E) 
 ![Django](https://img.shields.io/badge/django-%234ED1C5.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=%23092E20&labelColor=%234ED1C5)
-![Flask](https://img.shields.io/badge/flask-gray.svg?style=for-the-badge&logo=flask&logoColor=white)<br/>
+![Flask](https://img.shields.io/badge/flask-gray.svg?style=for-the-badge&logo=flask&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=%23092E20&labelColor=%234ED1C5)<br/>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)<br/>
