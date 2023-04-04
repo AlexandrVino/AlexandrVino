@@ -7,6 +7,7 @@
     <td valign="top" width="500px">
 			### - Learning :</br></br>
 			- ✨ Python</br>
+			- ✨ С#</br>
 			- ✨ Kotlin</br>
 			- ✨ JavaScript</br>
 			- ✨ Mathematical statistics</br>
