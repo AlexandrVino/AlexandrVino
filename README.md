@@ -8,7 +8,6 @@
 			### - Learning :</br></br>
 			- ✨ Python</br>
 			- ✨ С# + Unity</br>
-			- ✨ Kotlin</br>
 			- ✨ JavaScript</br>
 			- ✨ Mathematical statistics</br>
 			- ✨ Data Science & Algorithms</br>
